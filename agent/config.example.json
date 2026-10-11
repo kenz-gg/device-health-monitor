@@ -1,0 +1,13 @@
+{
+  "device_id": "WIN-PC-01",
+  "host": "127.0.0.1",
+  "port": 8000,
+  "bind_host": "127.0.0.1",
+  "refresh_interval_seconds": 2,
+  "history_limit": 1800,
+  "allow_browser_monitoring": true,
+  "enable_relay": false,
+  "relay_url": "https://relay.example.com",
+  "relay_token": "replace-with-strong-token",
+  "log_level": "INFO"
+}
